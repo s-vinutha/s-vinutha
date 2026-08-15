@@ -1,4 +1,4 @@
-#  Hello, World! I'm Vinutha S
+# ⚡ Hello, World! I'm Vinutha S
 
 > **Data Science Student & Aspiring Software Engineer**
 > *Bridging the gap between raw data insights and interactive full-stack web applications.*
@@ -15,10 +15,10 @@
 
 ### 📊 Github Engine Room
 
-| 🚀 Primary Technologies | ⚙️ Architecture & Databases |
-| :--- | :--- |
-| ```python\n# Advanced Analytics & Backend\nPython / Flask / Java / JavaScript / React\n``` | ```sql\n-- Structural & NoSQL Systems\nMySQL / MongoDB / Tableau / Power BI\n``` |
-
+<p align="center">
+  <img src="https://vercel.app" width="49%" />
+  <img src="https://vercel.app" width="49%" />
+</p>
 
 ---
 
@@ -31,5 +31,5 @@
 
 ### 🤝 Let's Collaborate
 📬 **Email:** vinuthas859@gmail.com  
-💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/vinutha-s-7a1068295/)  
-🧠 **Problem Solving:** [LeetCode](https://leetcode.com/u/vin_28200501/)
+💼 **Professional Network:** [LinkedIn](https://linkedin.com)  
+🧠 **Problem Solving:** [LeetCode](https://leetcode.com)
