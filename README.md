@@ -6,10 +6,12 @@
 
 ---
 
-### 🛠️ Skills
-* **Languages & Frameworks:** `Python` | `Java` | `C` | `JavaScript` | `React` | `Flask`
-* **Data & Databases:** `Pandas` | `NumPy` | `Tableau` | `Power BI` | `MySQL` | `MongoDB`
-* **Tools:** `Git` | `GitHub` | `VS Code`
+### 📊 GitHub Activity & Stats
+<p align="left">
+  <img src="https://vercel.app" height="150" alt="GitHub Stats" />
+  <img src="https://vercel.app" height="150" alt="Top Languages" />
+</p>
+
 
 ---
 
@@ -21,4 +23,4 @@
 ---
 
 ### 🤝 Connect with Me
-[LinkedIn](https://linkedin.com) | [LeetCode](https://leetcode.com) | vinuthas859@gmail.com
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/vinutha-s-7a1068295/)) | [LeetCode](https://leetcode.com/u/vin_28200501/) | vinuthas859@gmail.com
