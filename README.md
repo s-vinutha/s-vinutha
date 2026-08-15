@@ -15,18 +15,10 @@
 
 ### 📊 Github Engine Room
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>🚀 Contribution Activity</h4>
-      <img src="https://vercel.app" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🎯 Core Languages</h4>
-      <img src="https://vercel.app" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+| 🚀 Primary Technologies | ⚙️ Architecture & Databases |
+| :--- | :--- |
+| ```python\n# Advanced Analytics & Backend\nPython / Flask / Java / JavaScript / React\n``` | ```sql\n-- Structural & NoSQL Systems\nMySQL / MongoDB / Tableau / Power BI\n``` |
+
 
 ---
 
