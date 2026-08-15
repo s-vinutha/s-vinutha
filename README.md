@@ -15,10 +15,20 @@
 
 ### 📊 Github Engine Room
 
-<p align="center">
-  <img src="https://vercel.app" width="49%" />
-  <img src="https://vercel.app" width="49%" />
-</p>
+> ### 💻 Core Programming & Scripting
+> `Python` • `Java` • `C` • `JavaScript` • `SQL`
+
+> ### 🌐 Full-Stack Web Development
+> `React.js` • `Flask` • `HTML5` • `CSS3` • `RESTful APIs`
+
+> ### 📈 Data Science & Analytics
+> `Pandas` • `NumPy` • `Data Structures & Algorithms` • `Tableau` • `Power BI`
+
+> ### 🗄️ Database Management Systems
+> `MySQL (Relational)` • `MongoDB (NoSQL)` • `Database Design`
+
+> ### 🔧 Tools & DevOps Workflows
+> `Git` • `GitHub` • `VS Code` • `OOPs`
 
 ---
 
@@ -31,5 +41,5 @@
 
 ### 🤝 Let's Collaborate
 📬 **Email:** vinuthas859@gmail.com  
-💼 **Professional Network:** [LinkedIn](https://linkedin.com)  
-🧠 **Problem Solving:** [LeetCode](https://leetcode.com)
+💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/vinutha-s-7a1068295/)  
+🧠 **Problem Solving:** [LeetCode](https://leetcode.com/u/vin_28200501/)
