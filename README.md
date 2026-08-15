@@ -23,4 +23,4 @@
 ---
 
 ### 🤝 Connect with Me
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/vinutha-s-7a1068295/)) | [LeetCode](https://leetcode.com/u/vin_28200501/) | vinuthas859@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vinutha-s-7a1068295/) | [LeetCode](https://leetcode.com/u/vin_28200501/) | vinuthas859@gmail.com
