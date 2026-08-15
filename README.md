@@ -1,17 +1,9 @@
 # Hi there, I'm Vinutha S! 👋
 
-**Aspiring Software Engineer & Data Analyst**  
-🎓 B.E. in Computer Science (Data Science) @ CMRIT (CGPA: 9.22)  
+> **Turning complex datasets into intelligent, responsive web solutions.**
+
+🎓 **B.E. in Computer Science (Data Science)** @ CMRIT (CGPA: 9.22)  
 📍 Bengaluru, India | 💼 Open to Internships & Entry-Level Roles
-
----
-
-### 📊 GitHub Activity & Stats
-<p align="left">
-  <img src="https://vercel.app" height="150" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="150" alt="Top Languages" />
-</p>
-
 
 ---
 
